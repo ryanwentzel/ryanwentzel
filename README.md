@@ -1,8 +1,6 @@
 ## Hi, I'm Ryan 👋
 
-I pastor a church in Southern California. I preach, teach, and write. I walk with others through some of life’s most difficult experiences. 
-
-I was a software engineer back in the day. I worked on [basespace](https://github.com/basespace) before leaving software for pastoral ministry.
+I'm an experienced team leader with a foundation in software engineering and 8+ years of senior leadership as a lead pastor. Adept at building and leading high-trust teams, mentoring individuals for growth, guiding organizations through change, and communicating complex ideas clearly to diverse audiences. Proven ability to create strong team culture, manage operations, and lead mission-driven initiatives. Brings a unique combination of technical background, strategic thinking, and people-focused leadership. Seeking to contribute to a team-oriented organization in a leadership or management role.
 
 ---
 You can find me at [ryanlwentzel.com](https://ryanlwentzel.com/) or get in touch with me via [email](mailto:hi@ryanlwentzel.com).
